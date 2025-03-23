@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-prisma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "highlight.js syntax definition for PrismaORM",
   "main": "src/index.js",
   "scripts": {

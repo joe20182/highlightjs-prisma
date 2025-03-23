@@ -79,4 +79,4 @@ function prisma() {
   };
 }
 
-export default prisma;
+export default { prisma };
