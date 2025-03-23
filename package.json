@@ -1,0 +1,28 @@
+{
+  "name": "highlightjs-prisma",
+  "version": "1.0.0",
+  "description": "highlight.js syntax definition for PrismaORM",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe20182/highlightjs-prisma.git"
+  },
+  "keywords": [
+    "prisma",
+    "prismaORM",
+    "highlight.js",
+    "highlightjs"
+  ],
+  "author": "Shaka Joe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joe20182/highlightjs-prisma/issues"
+  },
+  "homepage": "https://github.com/joe20182/highlightjs-prisma#readme",
+  "dependencies": {
+    "highlight.js": "^11.11.1"
+  }
+}
